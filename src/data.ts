@@ -5,8 +5,8 @@ export const PERSONAL_INFO = {
   title: "FULL STACK DEVELOPER",
   email: "rafanmu33@gmail.com",
   phone: "+91 9400690106",
-  github: "https://github.com", // standard github placeholder that we can style nicely
-  linkedin: "https://linkedin.com", // standard linkedin placeholder
+  github: "https://github.com/RafanX50L", // standard github placeholder that we can style nicely
+  linkedin: "https://www.linkedin.com/in/muhammed-rafan-m-32037b313/", // standard linkedin placeholder
   location: "Remote, India",
   summary: "Dynamic and results-driven Full Stack Developer with 6 months of professional remote experience and intensive hands-on project work. Expertise in building high-performance web applications using SvelteKit, Elysia.js + Bun, and OpenSeadragon for deep zoom imaging. Strong background in developing scalable end-to-end solutions with real-time features, payment integrations, and AI capabilities."
 };
@@ -28,7 +28,7 @@ export const PROJECTS: Project[] = [
     ],
     technologies: ["React.js", "TypeScript", "Node.js", "Express.js", "MongoDB", "Stripe", "WebRTC", "Socket.io", "AI Integration"],
     liveUrl: "#",
-    githubUrl: "#",
+    githubUrl: "https://github.com/RafanX50L/Tahtib-AlJuhd",
     category: "featured",
     iconName: "Dumbbell"
   },
@@ -47,7 +47,7 @@ export const PROJECTS: Project[] = [
     ],
     technologies: ["React.js", "Node.js", "Express.js", "MongoDB", "Tailwind CSS", "REST APIs", "MVC Architecture"],
     liveUrl: "#",
-    githubUrl: "#",
+    githubUrl: "https://github.com/RafanX50L/Bankai-E-Commerce-Platform",
     category: "featured",
     iconName: "ShoppingCart"
   },
@@ -62,8 +62,8 @@ export const PROJECTS: Project[] = [
       "Integrated MongoDB for storing users, quizzes, and results with optimized data handling using Mongoose."
     ],
     technologies: ["React.js", "Node.js", "Express.js", "MongoDB", "JWT", "Tailwind CSS"],
-    liveUrl: "#",
-    githubUrl: "#",
+    liveUrl: "https://quiz.rafan.me",
+    githubUrl: "https://github.com/RafanX50L/MERN-Stack-Quiz",
     category: "additional",
     iconName: "Award"
   },
@@ -77,7 +77,7 @@ export const PROJECTS: Project[] = [
       "Built admin dashboard for user management with CRUD operations and access control."
     ],
     technologies: ["React.js", "Node.js", "Express.js", "MongoDB", "JWT", "Tailwind CSS"],
-    githubUrl: "#",
+    githubUrl: "https://github.com/RafanX50L/User-Management",
     category: "additional",
     iconName: "ShieldAlert"
   },
@@ -91,7 +91,7 @@ export const PROJECTS: Project[] = [
       "Built responsive UI with image upload functionality and user profile management."
     ],
     technologies: ["React.js", "Node.js", "Express.js", "MongoDB", "JWT", "Bootstrap"],
-    githubUrl: "#",
+    githubUrl: "https://github.com/RafanX50L/Olx-Clone",
     category: "additional",
     iconName: "Store"
   }
